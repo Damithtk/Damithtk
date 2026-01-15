@@ -42,12 +42,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Damithtk&show_icons=true&hide_title=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damithtk&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername" />
+  <img src="https://streak-stats.demolab.com?user=Damithtk" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Damithtk&margin-w=10&margin-h=10" />
 </p>
 
 ---
